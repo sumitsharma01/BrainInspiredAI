@@ -13,3 +13,28 @@ Core Concepts to Include
 - Execution Layer: An "action network" to simulate brain’s motor output (code execution, planning).
 
 - Learning Guide: Step-by-step documentation, starting from theory → simple examples → full architecture.
+
+
+🚀 First Milestone would be:
+
+- Create a minimal prototype:
+
+- Input: A reasoning question.
+
+- Model: A network with a "thinking loop" (iterative reasoning like a brain).
+
+- Output: A grounded answer with reasoning trace.
+
+- Add documentation explaining brain-inspired principles behind the design.
+
+🔧 Technologies to use
+
+- PyTorch for custom networks.
+
+- LangChain / LlamaIndex (to integrate LLMs).
+
+- Neuro-Symbolic Logic for reasoning.
+
+- OpenAI / HuggingFace models as base layers.
+
+- ReAct-style thinking loops or custom memory modules.
