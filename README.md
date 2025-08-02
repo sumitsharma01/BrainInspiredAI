@@ -37,4 +37,4 @@ Core Concepts to Include
 
 - OpenAI / HuggingFace models as base layers.
 
-- ReAct-style thinking loops or custom memory modules
+- ReAct-style thinking loops or custom memory modules.
