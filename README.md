@@ -38,3 +38,28 @@ Core Concepts to Include
 - OpenAI / HuggingFace models as base layers.
 
 - ReAct-style thinking loops or custom memory modules.
+
+
+
+Structure of the rep:
+braininspiredai/
+├── README.md
+├── docs/
+│   ├── intro.md
+│   ├── brain_inspired_principles.md
+│   └── tutorials/
+├── research/
+│   ├── papers_summary/
+│   ├── experiments/
+│   └── benchmarks/
+├── models/
+│   ├── core_thinking_module.py
+│   ├── reasoning_network.py
+│   └── memory_network.py
+├── datasets/
+├── examples/
+│   ├── question_answering/
+│   ├── reasoning_tasks/
+│   └── real_world_execution/
+├── requirements.txt
+└── CONTRIBUTING.md
