@@ -40,7 +40,6 @@ Core Concepts to Include
 - ReAct-style thinking loops or custom memory modules.
 
 
-
 Structure of the rep:
 braininspiredai/
 ├── README.md
