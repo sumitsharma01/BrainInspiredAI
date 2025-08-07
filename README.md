@@ -1,6 +1,6 @@
 # BrainInspiredAI
 A research project focused on mimicking human brain functions to detect and reduce AI hallucinations, improving the reliability and interpretability of generative models.
-
+In this project we will leverage different models create a interweb of models and also explore A2A protocol to implement Brain inspired AI.
 
 Core Concepts to Include
 
